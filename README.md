@@ -60,18 +60,6 @@ Here are a couple of projects I'm proud of:
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinsingh2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsingh2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jatinsingh2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 📫 Get in Touch
 
 <p align="left">
