@@ -23,10 +23,12 @@ Here are a couple of projects I'm proud of:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
   </a>
   <a href="https://github.com/jatinsingh2003/Mario_game_ai" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=[YOUR-MARIO-REPO-NAME]&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=Mario_game_ai&theme=tokyonight" />
   </a>
 </p>
 
+1.  **High-Performance Model Optimization Toolkit:** A Python toolkit to quantize deep learning models from `FP32` to `INT8`, proving a **4x size reduction** and significant inference speedup with minimal accuracy loss.
+2.  **Mario Game AI:** An agent trained using **Reinforcement Learning** (e.g., Deep Q-Networks or PPO) to autonomously learn and master levels in Super Mario Bros.
 ---
 
 ### 💻 My Tech Stack
