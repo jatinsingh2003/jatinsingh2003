@@ -22,14 +22,24 @@ Here are a couple of projects I'm proud of:
   <a href="https://github.com/jatinsingh2003/quantization_tool" style="margin: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
   </a>
+  
   <a href="https://github.com/jatinsingh2003/Mario_game_ai" style="margin: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=Mario_game_ai&theme=tokyonight" />
   </a>
+  
+  <a href="https://github.com/YOUR_USERNAME/dpi-engine" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=dpi-engine&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME/saas-dashboard" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=saas-dashboard&theme=tokyonight" />
+  </a>
 </p>
+1. **High-Performance Model Optimization Toolkit**: Quantized deep learning models from FP32 to INT8 achieving ~4× size reduction and faster inference with minimal accuracy loss.
+2. **Deep Packet Inspection (DPI) Engine (C++)* *: Developed a multi-threaded network traffic analyzer with protocol parsing, TLS SNI extraction, and rule-based traffic filtering for application-level control.
+3. 4. **SaaS Social Media Management Platform:** Developed a full-stack web SaaS platform to solve common social media management challenges, integrating content management, analytics, and performance tracking into a single streamlined system.
 
-1.  **High-Performance Model Optimization Toolkit:** A Python toolkit to quantize deep learning models from `FP32` to `INT8`, proving a **4x size reduction** and significant inference speedup with minimal accuracy loss.
-2.  **Mario Game AI:** An agent trained using **Reinforcement Learning** (e.g., Deep Q-Networks or PPO) to autonomously learn and master levels in Super Mario Bros.
----
+4. **Mario Game AI**: Built a reinforcement learning agent (DQN/PPO) to autonomously learn and solve Super Mario Bros levels.
 
 ### 💻 My Tech Stack
 
