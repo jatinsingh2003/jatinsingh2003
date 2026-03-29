@@ -17,8 +17,8 @@ I'm a developer focused on building **scalable web applications, backend systems
 ### 🚀 My Featured Projects
 
 <p align="center">
-  <a href="https://github.com/jatinsingh2003/quantization_tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
+  <a href="https://github.com/jatinsingh2003/Time-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=Time-app&theme=tokyonight" />
   </a>
   <a href="https://github.com/jatinsingh2003/DPI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=DPI&theme=tokyonight" />
