@@ -1,45 +1,43 @@
 # Hi there, I'm Jatin Singh 👋
 
-I'm a passionate developer and AI/ML enthusiast focused on building efficient, scalable, and intelligent machine learning systems. I have a strong foundation in data science principles and enjoy exploring everything from deep learning optimization to reinforcement learning.
+I'm a developer focused on building **scalable web applications, backend systems, and performance-driven solutions**. I enjoy working across systems programming, backend engineering, and applied AI/ML to solve real-world problems efficiently.
 
 <br/>
 
 ### 💫 A Little More About Me
 
-- 🔭 I’m currently working on optimizing deep learning models and building game-playing AIs.
-- 🤝 I’m looking to collaborate on projects involving MLOps or applied Reinforcement Learning.
-- 🌱 I’m currently learning advanced techniques in RL and production-level MLOps.
-- 💬 Ask me about PyTorch, model quantization, or performance benchmarking!
+- 🔭 I’m currently working on backend systems and scalable web applications.
+- 🤝 I’m looking to collaborate on full-stack or backend-heavy projects.
+- 🌱 I’m currently learning system design, distributed systems, and production-level architectures.
+- 💬 Ask me about C++, backend development, APIs, or system performance!
 - ✨ Fun fact: True luxury for me is a good web novel and some snacks.
 
 ---
 
 ### 🚀 My Featured Projects
 
-Here are a couple of projects I'm proud of:
-
 <p align="center">
-  <a href="https://github.com/jatinsingh2003/quantization_tool" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
+  <a href="https://github.com/jatinsingh2003/quantization_tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
   </a>
-  
-  <a href="https://github.com/jatinsingh2003/Mario_game_ai" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=Mario_game_ai&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/YOUR_USERNAME/dpi-engine" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=dpi-engine&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/YOUR_USERNAME/saas-dashboard" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=saas-dashboard&theme=tokyonight" />
+  <a href="https://github.com/jatinsingh2003/DPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=DPI&theme=tokyonight" />
   </a>
 </p>
-1. **High-Performance Model Optimization Toolkit**: Quantized deep learning models from FP32 to INT8 achieving ~4× size reduction and faster inference with minimal accuracy loss.
-2. **Deep Packet Inspection (DPI) Engine (C++)* *: Developed a multi-threaded network traffic analyzer with protocol parsing, TLS SNI extraction, and rule-based traffic filtering for application-level control.
-3. 4. **SaaS Social Media Management Platform:** Developed a full-stack web SaaS platform to solve common social media management challenges, integrating content management, analytics, and performance tracking into a single streamlined system.
 
-4. **Mario Game AI**: Built a reinforcement learning agent (DQN/PPO) to autonomously learn and solve Super Mario Bros levels.
+<p align="center">
+  <a href="https://github.com/jatinsingh2003/unify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsgh2003&repo=unify&theme=tokyonight" />
+  </a>
+</p>
+
+1. **Deep Packet Inspection (DPI) Engine (C++)**: Built a high-performance network traffic analyzer with protocol parsing (Ethernet/IP/TCP), flow tracking, and TLS SNI-based application classification with rule-based filtering.
+
+2. **SaaS Social Media Management Platform (Unify)**: Developed a full-stack web SaaS platform to solve social media management challenges, integrating content management, analytics, and performance tracking into a unified system.
+
+3. **High-Performance Model Optimization Toolkit**: Quantized deep learning models from FP32 to INT8 achieving ~4× size reduction and faster inference with minimal accuracy loss.
+
+---
 
 ### 💻 My Tech Stack
 
@@ -50,22 +48,22 @@ Here are a couple of projects I'm proud of:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+#### Backend & Web
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REST API](https://img.shields.io/badge/API-RESTful-ff69b4?style=for-the-badge)
+
 #### AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### Cloud & Databases
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
@@ -74,16 +72,14 @@ Here are a couple of projects I'm proud of:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jatinsingh-ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jvsingh201@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=jatinsingh2003&icon=2&color=12" alt="Visitor Count"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
