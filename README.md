@@ -16,7 +16,7 @@ I'm a developer focused on building **scalable web applications, backend systems
 
 ### 🚀 My Featured Projects
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jatinsingh2003/quantization_tool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
   </a>
@@ -33,7 +33,7 @@ I'm a developer focused on building **scalable web applications, backend systems
   <a href="https://github.com/jatinsingh2003/unify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=unify&theme=tokyonight" />
   </a>
-</p>
+</p> -->
 
 1. **Deep Packet Inspection (DPI) Engine (C++)**: Built a high-performance network traffic analyzer with protocol parsing (Ethernet/IP/TCP), flow tracking, and TLS SNI-based application classification with rule-based filtering.
 
