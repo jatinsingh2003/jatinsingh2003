@@ -20,7 +20,7 @@ I'm a developer focused on building **scalable web applications, backend systems
   <a href="https://github.com/jatinsingh2003/quantization_tool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
   </a>
-  <a href="https://github.com/jatinsingh2003/quantization_tool">
+  <a href="https://github.com/jatinsingh2003/unify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jatinsingh2003&repo=quantization_tool&theme=tokyonight" />
   </a>
 
